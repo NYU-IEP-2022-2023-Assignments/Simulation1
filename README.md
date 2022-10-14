@@ -1,6 +1,6 @@
 # Simulation 1 - Period of a real pendulum in 1D
 
-To accept this assignment: 
+To accept this assignment: https://classroom.github.com/a/S2Tg_njq
 
 This read me is adapted from [Jeremey Manning's Psych 32 Assignment Hello, World!](github.com/ContextLab/psyc32-hello-world/)
 
